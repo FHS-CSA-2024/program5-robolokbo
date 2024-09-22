@@ -1,7 +1,7 @@
 //import stuff here?
 
 //Your code here
-public class Program5 {
+public class Program5 { //FIX: changed class name to Program5 instead of Program
     public static void main(String[] args) {
 
         //declare variables
